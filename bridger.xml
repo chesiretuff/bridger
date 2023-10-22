@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <Response>
+
+<Gather input = "dtmf speech" timeout = "10" action="https://4768-75-34-159-90.ngrok-free.app/gathergrades" method="GET">
+
+<Say>
+
+Welcome to bridger please enter student ID number followed by #.
+
+</Say>
+
+</Gather>
+
+<Say>thanks for the input. Goodbye! </Say>
+
+
+</Response>
